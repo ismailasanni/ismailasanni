@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ismailasanni
 - 👀 I’m interested in PHP, WordPress and Graphic Design
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning UI/UX
 - 💞️ I’m looking to collaborate on Web application projects
 - 📫 You can reach me on IG @sanniesmael
 
